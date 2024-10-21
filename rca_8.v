@@ -1,4 +1,4 @@
-module rca_8(a,b,s,cin,cout);
+module rca_8(a,b,s,cin,cout); // 8 Bit Ripple Carry Adder
 input [7:0]a,b;
 input cin;
 output [7:0]s;
