@@ -1,4 +1,4 @@
-module vedic_2x2(a, b, s);
+module vedic_2x2(a, b, s);// 2 Bit Vedic Multiplier
 
 input [1:0] a, b;
 output [3:0] s;
